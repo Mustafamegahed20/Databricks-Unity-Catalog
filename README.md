@@ -1,7 +1,5 @@
 # Complete Guide to Databricks Unity Catalog
 
-Based on this comprehensive video transcript, here's everything explained in detail:
-
 ---
 
 ## 🎯 **Overview & Importance**
